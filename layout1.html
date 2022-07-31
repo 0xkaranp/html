@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+div.static {
+  position: static;
+  border: 3px solid #73AD21;
+}
+div.relative {
+  position: relative;
+  border: 3px solid #73AD21;
+}
+div.absolute {
+  position: absolute;
+  border: 3px solid #73AD21;
+}
+
+</style>
+</head>
+<body>
+<br>
+<div class="relative">
+<div class="absolute" style="width:100%">
+header
+</div>
+
+<div class="relative" style="margin-top:30px">
+
+<div class="absolute" style="width:30% ;height:580px">
+sidebar
+</div>
+<div class="absolute" style="margin-left:30%; width:70%;height:580px">
+main content
+</div>
+</div>
+<div class="relative" style=" margin-top:610px">
+bottom
+</div>
+</div>
+
+
+
+</body>
+</html>
+
+

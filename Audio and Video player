@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Files audio and video player</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+        <main class="ayein" align="Center">
+        <h1 class="title" align="Center">Audio Section</h1>
+        <h5>Kya karu mai iska</h5>
+        <audio  controls=""src="https://wynk.in/music/song/kya-karu-mai/hu_859774901262_TCAHE2352378#queue"></audio></audio>
+        <h5>Why this kollavari</h5>
+        <audio  controls=""src="https://www.jiosaavn.com/album/why-this-kolaveri-di/NHTKUhBvvFw_"></audio></audio>
+        <h5>Shed Shebbe</h5>
+        <audio  controls=""src="https://wynk.in/music/song/kya-karu-mai/hu_859774901262_TCAHE2352378#queue"></audio></audio>
+        <h5>One direction</h5>
+        <audio  controls=""src="https://wynk.in/music/song/kya-karu-mai/hu_859774901262_TCAHE2352378#queue"></audio></audio>
+        <h5>Pakhra Azad kela tula</h5>
+        <audio  controls=""src="https://wynk.in/music/song/kya-karu-mai/hu_859774901262_TCAHE2352378#queue"></audio></audio>
+        <h5>Watanachya Gol dana</h5>
+        <audio  controls=""src="https://wynk.in/music/song/kya-karu-mai/hu_859774901262_TCAHE2352378#queue"></audio></audio>
+      </main>
+      <main class="ayein" align="Center">
+        <h1 class="title"> Meme Section:)</h5>
+        <video src="https://media.vlipsy.com/vlips/Q9emQSKr/360p.mp4" height="200" width="200" preload="auto" controls="" > Video 1</video>
+        <video src="https://media.vlipsy.com/vlips/KvSqPUPN/360p.mp4" height="200" width="200" preload="auto" controls="" ></video>
+        <video src="https://media.vlipsy.com/vlips/tVmiYVBz/360p.mp4" height="200" width="200" preload="auto" controls=""></video>
+        <video src="https://media.vlipsy.com/vlips/SRWe4TFA/360p.mp4" height="200" width="200" preload="auto" controls=""></video>
+        <video src="https://media.vlipsy.com/vlips/5cJFPmA4/360p.mp4" height="200" width="200" preload="auto" controls=""></video>
+        <video src="https://media.vlipsy.com/vlips/DmlODj5H/360p.mp4" height="200" width="200" preload="auto" controls=""></video>
+
+        </main>
+  </body>
+</html>
